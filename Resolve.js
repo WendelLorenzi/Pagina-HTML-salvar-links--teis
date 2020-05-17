@@ -1,6 +1,6 @@
 var listaElement= document.querySelector('#salve ul');
 var inputLinkElemento= document.querySelector('#salve input[name=link]');
-var inputNomelinkElemento= document.querySelector('#salve input[name=Nomelink');
+var inputNomelinkElemento= document.querySelector('#salve input[name=Nomelink]');
 var botaoElement= document.querySelector('#salve button');
 
 var link= {
